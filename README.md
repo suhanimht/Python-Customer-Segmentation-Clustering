@@ -1,8 +1,6 @@
 # Shopping-Customer-Segmentation-Clustering
 This is a data analysis portfolio project that will allow you to perform customer segmentation on a specific group of mall customers. You will identify the best possible cluster using KMeans unsupervised machine learning algorithm to find the univariate, bivariate and multivariate clusters.  Once these clusters are identified, summary statistics can be performed on these to identify the best marketing group. The objective is to segment customers based on their behavior and characteristics, ultimately providing valuable insights for targeted marketing strategies and improving the overall shopping experience. 
 
-Link to dataset - https://absentdata.com/wp-content/uploads/2023/03/Mall_Customers.csv 
-
 The approach:
 
 Data Collection and Exploration:
